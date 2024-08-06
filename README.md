@@ -1,6 +1,6 @@
 🥰*Oi meu nome é Rayane* 
 
- 👀 I’m interested in ...
+📕 *Sou uma aluna da escola Leticia*
  
   
  💞️ I’m looking to collaborate on ...
