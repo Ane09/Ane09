@@ -1,18 +1,13 @@
--🥰*Oi meu nome é Rayane* 
-
--📕*Sou uma aluna da escola Leticia*
- 
+- 🥰*Oi meu nome é Rayane*
   
- 💞️ I’m looking to collaborate on ...
- 
-📫 How to reach me ...
+- 📕*Sou uma aluna da escola Leticia*
+  
+- 🔎*Quero aprender mais sobre tecnologia*
+  
+- 🐾*Gosto de animais*
+  
+- 📚*Gosto de livros*
 
- 😄 Pronouns: ...
+- 📱*Meu instagram é @anexx_09
  
- ⚡ Fun fact: ...
- 
-
-<!---
-Ane09/Ane09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://media1.tenor.com/m/x1dYnqeehLAAAAAC/stitch-sad-sad-stitch.gif)
