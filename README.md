@@ -1,4 +1,4 @@
-- 🥰*Oi meu nome é Rayane*
+- 🥰*Meu nome é Rayane*
   
 - 📕*Sou uma aluna da escola Leticia*
   
