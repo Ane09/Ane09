@@ -2,7 +2,7 @@
   
 - 📕*Sou uma aluna da escola Leticia*
   
-- 🔎*Quero aprender mais sobre tecnologia*
+- 🔎*Quero aprender mais sobre programação*
   
 - 🐾*Gosto de animais*
   
